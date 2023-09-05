@@ -42,6 +42,12 @@ const projectList = [
       "Web Project based on java script",
     url: "https://beautiful-crepe-7226bf.netlify.app/",
   },
+  {
+    title: "Web 3 Project based on rect and solid.js",
+    description:
+      "Gives you free experince of anime content for free without any charges",
+    url: "https://github.com/shezad-linux/animex",
+  },
 ];
 
 const Portfolio = () => {
